@@ -4,7 +4,7 @@
 #
 Name     : librdmacm
 Version  : 1.1.0
-Release  : 4
+Release  : 5
 URL      : https://www.openfabrics.org/downloads/rdmacm/librdmacm-1.1.0.tar.gz
 Source0  : https://www.openfabrics.org/downloads/rdmacm/librdmacm-1.1.0.tar.gz
 Summary  : Userspace RDMA Connection Manager
